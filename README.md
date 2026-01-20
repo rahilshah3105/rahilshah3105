@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Rahil Shah 👋
 
-<!--
-**rahilshah3105/rahilshah3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My GitHub username is **rahilshah3105**.
 
-Here are some ideas to get you started:
+I’m a front-end developer focused on building user-friendly web applications using **React.js** and modern JavaScript. I enjoy working on real-world projects and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Redux
+- Git & GitHub
+
+## Projects
+Here you’ll find:
+- React-based front-end applications
+- Practice projects for core concepts
+- UI-focused development work
+
+## Links
+- GitHub Profile: https://github.com/rahilshah3105  
+- LinkedIn: https://www.linkedin.com/in/rahilshah3105/
+- Website: https://rahilshah.netlify.app/
+
+## Location
+India
